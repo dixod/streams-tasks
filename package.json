@@ -1,0 +1,26 @@
+{
+  "name": "streams-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dixod/streams-tasks.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dixod/streams-tasks/issues"
+  },
+  "homepage": "https://github.com/dixod/streams-tasks#readme",
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
